@@ -57,7 +57,7 @@ public class Program {
 
 			OrderItem orderItem = new OrderItem(quantity, priceProduct, product);
 			
-            order.addOrderItem(orderItem);
+                        order.addOrderItem(orderItem);
 
 			System.out.println();
 		}
